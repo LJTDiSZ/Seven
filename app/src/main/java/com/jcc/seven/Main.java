@@ -65,4 +65,9 @@ public class Main extends AppCompatActivity {
 
     public void buttonMapClick(View view) {
     }
+
+    public void buttonTouchClick(View view) {
+        Intent intent = new Intent(this, Touch.class);
+        startActivity(intent);
+    }
 }

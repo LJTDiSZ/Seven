@@ -23,7 +23,8 @@
         <activity android:name=".Translate" />
         <activity android:name=".Location" />
         <activity android:name=".MyMap" />
-        <activity android:name=".SQL"></activity>
+        <activity android:name=".SQL" />
+        <activity android:name=".Touch" android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
     </application>
 
 </manifest>

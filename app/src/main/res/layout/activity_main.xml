@@ -18,17 +18,17 @@
             android:text="@string/localbrowser_button"
             android:onClick="buttonLocalBrowserClick"/>
         <Button android:id="@+id/translate_button"
-            android:text="T"
+            android:text="Tran"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="buttonTranslateClick"/>
         <Button android:id="@+id/location_button"
-            android:text="L"
+            android:text="Loc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="buttonLocationClick"/>
         <Button android:id="@+id/map_button"
-            android:text="M"
+            android:text="Map"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="buttonMapClick"/>
@@ -37,10 +37,15 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
         <Button android:id="@+id/sql_button"
-            android:text="S"
+            android:text="SQL"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="buttonSqlClick"/>
+        <Button android:id="@+id/touch_button"
+            android:text="Touch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="buttonTouchClick"/>
     </LinearLayout>
     <LinearLayout
         android:orientation="horizontal"
