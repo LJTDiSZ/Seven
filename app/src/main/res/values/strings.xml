@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Seven</string>
+    <string name="go_button">Go</string>
+    <string name="localbrowser_button">Browser</string>
+    <string name="textview">TextView</string>
+    <string name="call_javascript_from_android">Call JavaScript from Android</string>
+
+    <string name="from_text">From:</string>
+    <string name="to_text">To:</string>
+    <string name="original_hint">Enter text to translate</string>
+    <string name="back_text">And back again:</string>
+    <string name="empty"></string>
+    <string name="translating">Translating...</string>
+    <string name="translation_error">(Translation error)</string>
+    <string name="translation_interrupted">(Translation interrupted)</string>
+</resources>
